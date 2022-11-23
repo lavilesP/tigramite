@@ -1,4 +1,4 @@
-name: tigramite_conda
+name: tigramite_athens
 dependencies:
     - python>=3.9
     - numpy==1.21.5
